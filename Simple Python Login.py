@@ -15,4 +15,4 @@ print(Fore.GREEN + """
 
 login=input("Enter Pass" + Back.BLUE + "$")
 if login == ("Angles0001"):
-    print("Hey daddy welcome back<3333")
+    print("welcome back")
